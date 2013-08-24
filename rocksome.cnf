@@ -1,0 +1,10 @@
+[rocksome_cnf]
+checklist_path = ~/rocksome
+dbhost = localhost
+database = rocksome
+username = rocksomewr
+password = rocksomewrite
+
+[contacts]
+author = Ng, Tzy Luen
+email = tzy.luen.ng@intel.com
