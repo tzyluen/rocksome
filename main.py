@@ -1,9 +1,7 @@
-from checklist import Checklist
-from checklist import Item
-from checklist import SoCItem
-from checklist import Waiver
-from utils import Automator
-from utils import Color
+from core.checklist import *
+from core.waiver import *
+from ext import *
+from utils import *
 
 ########################################################################
 ### initialization:

@@ -1,5 +1,3 @@
-from waiver import Waiver
-
 ### Checklist container
 class Checklist:
     def __init__(self, items):

@@ -1,3 +1,5 @@
+from core.checklist import *
+
 ### SoC item
 class SoCItem(Item, object):
     def __init__(self, id, name, source, milestone, dut):
